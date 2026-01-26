@@ -1,0 +1,14 @@
+# Visual Studio files
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Unreal files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xhml
