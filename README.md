@@ -15,7 +15,7 @@
 
 ## ❤️ Sobre o Projeto
 
-O **Histyle** não é apenas um jogo ou um repositório de código; ele representa um marco muito importante na minha vida. Desenvolvido em **2023**, durante a conclusão do meu **Ensino Técnico em Programação de Jogos Digitais na FECAP**, este projeto foi onde consegui unir criatividade e lógica de uma forma que nunca tinha feito antes.
+A **Histyle** não é apenas um jogo ou um repositório de código, ele representa um marco muito importante na minha vida. Desenvolvido em **2023**, durante a conclusão do meu **Ensino Técnico em Programação de Jogos Digitais na FECAP**, este projeto foi onde consegui unir criatividade e lógica de uma forma que nunca tinha feito antes.
 
 Tenho um carinho imenso por este trabalho porque foi nele que percebi o impacto real que o desenvolvimento pode ter. Foi um período de muito aprendizado, noites viradas e, acima de tudo, trabalho em equipe. O Histyle foi a prova de que eu poderia tirar ideias complexas do papel e transformá-las em uma experiência interativa real.
 
